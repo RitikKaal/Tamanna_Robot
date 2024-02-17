@@ -6,8 +6,6 @@
 from pyrogram.types import InlineKeyboardButton as ib
 from telegram import InlineKeyboardButton
 
-from Tamanna import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
-
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
     "https://telegra.ph/file/40b93b46642124605e678.jpg",
