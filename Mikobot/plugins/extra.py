@@ -6,8 +6,8 @@ from pyrogram.types import Message
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import CallbackQueryHandler, CommandHandler, ContextTypes
 
-from Mikobot import LOGGER, app, function
-from Mikobot.plugins.helper_funcs.chat_status import check_admin
+from Tamanna import LOGGER, app, function
+from Tamanna.plugins.helper_funcs.chat_status import check_admin
 
 # <=======================================================================================================>
 

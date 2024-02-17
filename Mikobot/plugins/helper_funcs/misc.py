@@ -15,7 +15,7 @@ from telegram import (
 from telegram.constants import MessageLimit, ParseMode
 from telegram.error import TelegramError
 
-from Mikobot import NO_LOAD
+from Tamanna import NO_LOAD
 
 # <=======================================================================================================>
 

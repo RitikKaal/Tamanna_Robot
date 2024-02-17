@@ -9,9 +9,9 @@ from telegram import Update
 from telegram.constants import ParseMode
 from telegram.ext import CommandHandler, ContextTypes
 
-from Mikobot import LOGGER as logger
-from Mikobot import function
-from Mikobot.state import state
+from Tamanna import LOGGER as logger
+from Tamanna import function
+from Tamanna.state import state
 
 # <=======================================================================================================>
 

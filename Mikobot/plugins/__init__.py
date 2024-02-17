@@ -1,4 +1,4 @@
-from Mikobot import LOAD, LOGGER, NO_LOAD
+from Tamanna import LOAD, LOGGER, NO_LOAD
 
 
 def __list_all_modules():

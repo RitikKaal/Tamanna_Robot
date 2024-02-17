@@ -6,8 +6,8 @@ from pyrogram.enums import ChatType
 from pyrogram.errors import MessageDeleteForbidden, RPCError
 from pyrogram.types import Message
 
-from Mikobot import SUPPORT_CHAT, app
-from Mikobot.utils.can_restrict import can_restrict
+from Tamanna import SUPPORT_CHAT, app
+from Tamanna.utils.can_restrict import can_restrict
 
 # <=======================================================================================================>
 

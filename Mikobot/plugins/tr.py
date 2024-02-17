@@ -11,10 +11,10 @@ from telegram import Update
 from telegram.constants import ParseMode
 from telegram.ext import ContextTypes, filters
 
-from Mikobot import LOGGER, function
-from Mikobot.plugins.anime import DEFAULT_SERVICE_URLS, LANGUAGES
-from Mikobot.plugins.disable import DisableAbleCommandHandler
-from Mikobot.plugins.helper_funcs.chat_status import check_admin
+from Tamanna import LOGGER, function
+from Tamanna.plugins.anime import DEFAULT_SERVICE_URLS, LANGUAGES
+from Tamanna.plugins.disable import DisableAbleCommandHandler
+from Tamanna.plugins.helper_funcs.chat_status import check_admin
 
 # <=======================================================================================================>
 

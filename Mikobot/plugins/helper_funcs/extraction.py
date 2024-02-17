@@ -5,8 +5,8 @@ from telegram import Message, MessageEntity
 from telegram.error import BadRequest
 from telegram.ext import ContextTypes
 
-from Mikobot import LOGGER
-from Mikobot.plugins.users import get_user_id
+from Tamanna import LOGGER
+from Tamanna.plugins.users import get_user_id
 
 # <=======================================================================================================>
 
