@@ -49,10 +49,10 @@ START_BTN = [
     [
         InlineKeyboardButton(text="DETAILS", callback_data="Miko_"),
         InlineKeyboardButton(text="AI", callback_data="ai_handler"),
-        InlineKeyboardButton(text="SOURCE", callback_data="git_source"),
+        
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id=5874825438"),
     ],
 ]
 
@@ -64,15 +64,15 @@ GROUP_START_BTN = [
         ),
     ],
     [
-        InlineKeyboardButton(text="SUPPORT", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="SUPPORT", url=f"https://t.me/lI_HEERIYE_ll"),
+        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id=5874825438"),
     ],
 ]
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/hydraXsupport"),
+        ib(text="UPDATES", url="https://t.me/l_DW_l"),
+        ib(text="SUPPORT", url="https://t.me/lI_HEERIYE_ll"),
     ],
     [
         ib(
